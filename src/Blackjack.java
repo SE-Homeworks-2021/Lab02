@@ -191,3 +191,5 @@ public String getWinner(){
         System.out.println("The winner is "+bj.getWinner());
     }       
 }
+
+// sry for hard code
